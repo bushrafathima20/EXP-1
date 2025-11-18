@@ -44,7 +44,8 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+ ![WhatsApp Image 2025-11-18 at 16 07 45_f48fa0aa](https://github.com/user-attachments/assets/8804fe72-5fd3-45ce-8bf6-f49db655d248)
+
 
 
 b.  KCL:
